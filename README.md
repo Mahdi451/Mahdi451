@@ -1,10 +1,10 @@
 <div>
   <p><samp><b>Hey there! I'm Mahdi Osman</b> 👋</samp></p>
   <p><samp> 📑 About Me 🖋 </samp></p>
-  <p><samp> &ensp; - 💼 Currently working as a Platform Validation Engineer at Intel. </samp></p>
-  <p><samp> &ensp; - 🤔 Always discovering new ways to automate & learning new and upcoming technologies. </samp></p>
-  <p><samp> &ensp; - 🎓 Also pursuing a Master of Science in Computer Science from the University of Colorado Boulder. </samp></p>
-  <p><samp> &ensp; - ⚡️ In my spare time you can find me playing soccer or trading options/futures. </samp></p>
+  <p><samp> &ensp; - 💼 Working on Platform Validation & Automation at Intel. </samp></p>
+  <p><samp> &ensp; - 🤔 Enjoy discovering new ways to automate & learning new and upcoming technologies. </samp></p>
+  <p><samp> &ensp; - 🎓 Currently pursuing a Master of Science in Computer Science from the University of Colorado Boulder. </samp></p>
+  <p><samp> &ensp; - ⚡️ In my spare time you can find me either playing soccer or trading options/futures. </samp></p>
 </div> 
 
 <div>
