@@ -1,7 +1,7 @@
 <div>
 <p><samp><b>Hey there! I'm Mahdi</b> 👋</samp></p>
   <p><samp> 📑 About Me 🖋 </samp></p>
-  <p><samp>&ensp; - 💼 Currently an Electrical Validation Engineer at Altera, a subsidiary of Intel</samp></p>
+  <p><samp>&ensp; - 💼 Currently an Electrical Validation Engineer at Altera specializing in PCIe and Ethernet interface validation</samp></p>
   <p><samp>&ensp; - 🤔 Passionate about exploring innovative automation techniques and staying updated on emerging technologies</samp></p>
   <p><samp>&ensp; - 🎓 Currently pursuing a Master of Science in Computer Science and Electrical Engineering at CU Boulder 🦬</samp></p>
   <p><samp>&ensp; - ⚡️ In my free time, you can find me playing soccer, trading futures/forex or working on my drift cars</samp></p>
