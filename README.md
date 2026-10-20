@@ -1,15 +1,17 @@
+<div align="center">
+  <img src="./assets/hero.svg" alt="Mahdi | Altera electrical validation engineer | PAM4 RX eye and orderflow footprint" width="100%" />
+  <p><samp><b>ALTERA / EV / HSIO</b> &nbsp; · &nbsp; Electrical Validation &nbsp; · &nbsp; Hardware × Software</samp></p>
+</div>
+
+<br>
+
 <div>
-<p><samp><b>Hey there! I'm Mahdi</b> 👋</samp></p>
-  <p><samp> 📑 About Me 🖋 </samp></p>
-  <p><samp>&ensp; - 💼 Currently an Electrical Validation Engineer at Altera specializing in PCIe and Ethernet interface validation.</samp></p>
-  <p><samp>&ensp; - 🤔 Passionate about exploring innovative automation techniques and staying updated on emerging technologies!</samp></p>
-  <p><samp>&ensp; - 🎓 Currently pursuing a Masters in Electrical & Computer Engineering at CU Boulder 🦬</samp></p>
-  <p><samp>&ensp; - ⚡️ In my free time, you can find me either playing soccer, building trading bots, backtesting strategies or drifting!</samp></p>
-</div> 
-<!--
-<div>
-  <p><samp> 💻 Languages and Tools 🔧 </samp></p>
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="90">
-</div> 
--->
+  <p><samp><b>01 / ABOUT</b></samp></p>
+  <p><samp>🔬 &ensp; <b>WORK</b> &nbsp; — HSIO validation: PCIe, Ethernet, HDMI, and signal integrity.</samp></p>
+  <p><samp>🛠️ &ensp; <b>BUILD</b> &nbsp; — Test automation, lab infrastructure, and AI-assisted engineering.</samp></p>
+  <p><samp>📈 &ensp; <b>EXPLORE</b> &nbsp; — Orderflow, market profile, trading systems, and backtesting.</samp></p>
+  <p><samp>🎓 &ensp; <b>EDUCATION</b> &nbsp; — M.S. ECE @ CU Boulder | B.S. CS @ SF State.</samp></p>
+  <p><samp>⚽ &ensp; <b>OFF HOURS</b> &nbsp; — Soccer, drifting, and all things automotive.</samp></p>
+</div>
+
+<!-- Illustrative PAM4 and orderflow artwork; no live instrument or market data. -->
