@@ -14,4 +14,3 @@
   <p><samp>⚽ &ensp; <b>OFF HOURS</b> &nbsp; — Soccer, drifting, and all things automotive.</samp></p>
 </div>
 
-<!-- Illustrative PAM4 and orderflow artwork; no live instrument or market data. -->
