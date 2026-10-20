@@ -1,15 +1,15 @@
-<div>
-<p><samp><b>Hey there! I'm Mahdi</b> 👋</samp></p>
-  <p><samp> 📑 About Me 🖋 </samp></p>
-  <p><samp>&ensp; - 💼 Currently an Electrical Validation Engineer at Altera specializing in PCIe and Ethernet interface validation.</samp></p>
-  <p><samp>&ensp; - 🤔 Passionate about exploring innovative automation techniques and staying updated on emerging technologies!</samp></p>
-  <p><samp>&ensp; - 🎓 Currently pursuing a Masters in Electrical & Computer Engineering at CU Boulder 🦬</samp></p>
-  <p><samp>&ensp; - ⚡️ In my free time, you can find me either playing soccer, building trading bots, backtesting strategies or drifting!</samp></p>
-</div> 
-<!--
-<div>
-  <p><samp> 💻 Languages and Tools 🔧 </samp></p>
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="90">
-</div> 
--->
+<div align="center">
+  <img src="./assets/concepts/01-signal-signature.svg" alt="Mahdi — Altera electrical validation, PAM4 and orderflow" width="100%" />
+</div>
+
+<br>
+
+<p><samp><b>ALTERA / EV / HSIO</b> — PCIe, Ethernet, HDMI &amp; signal integrity.</samp></p>
+<p><samp><b>BUILD</b> — Hardware/software automation, lab tooling &amp; AI-assisted workflows.</samp></p>
+<p><samp><b>EDUCATION</b> — M.S. ECE @ CU Boulder | B.S. CS @ SF State.</samp></p>
+<p><samp><b>OFF HOURS</b> — Orderflow, trading systems, soccer &amp; drifting.</samp></p>
+
+<details>
+<summary><samp>Other visual directions</samp></summary>
+<p><samp><a href="./designs/README.md">Explore the four banner concepts</a></samp></p>
+</details>
