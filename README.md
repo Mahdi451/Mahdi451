@@ -1,15 +1,9 @@
 <div>
-<p><samp><b>Hey there! I'm Mahdi</b> 👋</samp></p>
-  <p><samp> 📑 About Me 🖋 </samp></p>
-  <p><samp>&ensp; - 💼 Currently an Electrical Validation Engineer at Altera specializing in PCIe and Ethernet interface validation.</samp></p>
-  <p><samp>&ensp; - 🤔 Passionate about exploring innovative automation techniques and staying updated on emerging technologies!</samp></p>
-  <p><samp>&ensp; - 🎓 Currently pursuing a Masters in Electrical & Computer Engineering at CU Boulder 🦬</samp></p>
-  <p><samp>&ensp; - ⚡️ In my free time, you can find me either playing soccer, building trading bots, backtesting strategies or drifting!</samp></p>
-</div> 
-<!--
-<div>
-  <p><samp> 💻 Languages and Tools 🔧 </samp></p>
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="90">
-</div> 
--->
+  <p><samp><b>Hey there! I'm Mahdi</b> 👋</samp></p>
+  <p><samp><b>📑 About Me</b></samp></p>
+  <p><samp>&ensp; 💼 Electrical Validation Engineer @ Altera | PCIe, Ethernet &amp; HDMI.</samp></p>
+  <p><samp>&ensp; 🛠️ Interested in HSIO, signal integrity, test automation &amp; AI.</samp></p>
+  <p><samp>&ensp; 🎓 M.S. ECE @ CU Boulder | B.S. CS @ SF State.</samp></p>
+  <p><samp>&ensp; ⚡ Soccer, trading bots, backtesting &amp; drifting.</samp></p>
+  <p><img src="./assets/pam4-eye.gif" alt="Animated PAM4 eye diagram" width="400" /></p>
+</div>
